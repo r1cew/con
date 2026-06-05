@@ -1,9 +1,2 @@
-trojan://A3uIh_5NqMg3hFa.gDYWT.afz0UuJ6=VIM@172.237.145.189:443?security=tls&sni=172.237.145.189&fp=chrome&headerType=none&allowInsecure=0&type=tcp#🇺🇸 [Aven1] US
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@89.116.46.210:443?allowInsecure=1&encryption=none&fp=chrome&host=octopusss4.com&path=%2Ftsghdws&security=tls&sni=octopusss4.com&type=ws#🇫🇮 [Aven1] FI
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowRlhrSE5RTzZxMXM5S1FY@20.87.212.31:443#🇿🇦 [Aven1] ZA
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@90081bb25c.node.tro.cac.cab:45619?allowInsecure=1&sni=fr.01.naiun.bilibili.com#🇭🇰 [Aven1] HK
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@155.117.198.83:46424?allowInsecure=1&sni=de.01.naiun.bilibili.com#🇭🇰 [Aven1] HK
-vless://InternetAzadRobot@146.75.117.91:80?encryption=none&security=none&type=xhttp&host=tignaltofansv4.global.ssl.fastly.net&path=%2FTignal&mode=auto#🇫🇷 [Kort] FR
-vless://InternetAzadRobot@151.101.128.223:80?encryption=none&security=none&type=xhttp&host=shangulin.global.ssl.fastly.net&path=%2Flogin&mode=auto&extra=%7B%22mode%22%3A%22auto%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D#🇫🇷 [Kort] FR
 trojan://humanity@104.16.7.70:443?path=assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇫🇷 [Aven1] FR
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.192:8080#🇳🇱 [Aven1] NL
