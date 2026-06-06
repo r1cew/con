@@ -1,1 +1,2 @@
 vless://0dbad6ba-be87-46e1-ab90-30c53ef1878d@188.114.98.0:443?encryption=none&security=tls&sni=drive.speegy.club&alpn=h2&allowInsecure=1&type=xhttp&path=%2Fsreztjsterw4j&mode=auto#🇩🇪 [Kort] DE
+vless://InternetAzadRobot@151.101.128.223:80?encryption=none&security=none&type=xhttp&host=shangulin.global.ssl.fastly.net&path=%2Flogin&mode=auto&extra=%7B%22mode%22%3A%22auto%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D#🇫🇷 [Kort] FR
