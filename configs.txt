@@ -1,1 +1,5 @@
-trojan://humanity@212.183.88.136:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇫🇷 [Aven7] FR
+vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@fr-xh-01.hpdata.click:443?type=xhttp&security=tls&fp=chrome&sni=fr-xh-01.hpdata.click&path=/vk&mode=packet-up#🇫🇷 [Aven23] FR
+vless://6ca8ea5b-e47f-4c19-adee-365456e1e87c@31.76.38.85:7443?flow=xtls-rprx-vision&security=reality&allowInsecure=0&encryption=none&type=tcp&sni=stackoverflow.com&sid=be0ce047&fp=chrome&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&headerType=none#🇩🇪 [Aven1] DE
+vless://029a4bc6-4557-4b6b-a5fc-6232e943e43b@5.42.126.157:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=fi.sellflow.org&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🇫🇮 [Aven26] FI
+vless://7b241232-208d-4d36-857e-913f91b044f4@uk.noooo.win:443?type=tcp&headerType=none&security=tls&encryption=none&sni=api-6a20f558.noooo.win&fp=edge&alpn=h2&flow=xtls-rprx-vision&insecure=0#🇬🇧 [Aven1+Aven23] GB
+vless://77616e04-56ce-4a7d-bd55-979965e1ca1a@89.169.90.8:443?encryption=none&type=xhttp&security=tls&path=%2Fxhttppath&mode=auto&extra=null&fp=chrome&sni=top1174643266.mwscdn.ru#🇳🇱 [Aven26] NL
