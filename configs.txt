@@ -1,5 +1,4 @@
-vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@fr-xh-01.hpdata.click:443?type=xhttp&security=tls&fp=chrome&sni=fr-xh-01.hpdata.click&path=/vk&mode=packet-up#🇫🇷 [Aven23] FR
-vless://6ca8ea5b-e47f-4c19-adee-365456e1e87c@31.76.38.85:7443?flow=xtls-rprx-vision&security=reality&allowInsecure=0&encryption=none&type=tcp&sni=stackoverflow.com&sid=be0ce047&fp=chrome&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&headerType=none#🇩🇪 [Aven1] DE
-vless://029a4bc6-4557-4b6b-a5fc-6232e943e43b@5.42.126.157:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=fi.sellflow.org&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🇫🇮 [Aven26] FI
-vless://7b241232-208d-4d36-857e-913f91b044f4@uk.noooo.win:443?type=tcp&headerType=none&security=tls&encryption=none&sni=api-6a20f558.noooo.win&fp=edge&alpn=h2&flow=xtls-rprx-vision&insecure=0#🇬🇧 [Aven1+Aven23] GB
-vless://77616e04-56ce-4a7d-bd55-979965e1ca1a@89.169.90.8:443?encryption=none&type=xhttp&security=tls&path=%2Fxhttppath&mode=auto&extra=null&fp=chrome&sni=top1174643266.mwscdn.ru#🇳🇱 [Aven26] NL
+vless://94ae5ad5-8f3e-41bf-9546-99a1543d3cd1@45.153.71.184:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=mydogcollections.com&pbk=RsG53RnTZKpPwbKt0mnj3963DinwNFHpk3eWaHH6oG4&sid=653253254366#🇷🇺 [Aven1+Aven10+Aven26] RU
+vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@it-xh-02.hpdata.click:443?type=xhttp&security=tls&path=/vk&sni=it-xh-02.hpdata.click&fp=chrome#🇮🇹 [Aven23] IT
+vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@it-xh-01.hpdata.click:443?type=xhttp&security=tls&fp=chrome&sni=it-xh-01.hpdata.click&path=/vk&mode=packet-up#🇮🇹 [Aven23] IT
+vless://7ec71271-0d3a-4297-bdfc-8c7fdc79d73e@nl-2.borshclick.tech:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=5eVYVBcTwAcJHbpZax630RnNPgHaMe43B33tApdSqQo&sni=nl-2.borshclick.tech#🇳🇱 [Aven1+Aven23] NL
